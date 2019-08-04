@@ -1,4 +1,4 @@
-# demo-leaflet
+# Wrapper Leaflet
 
 > A Wrapper Leaflet for framework Vue.js
 
